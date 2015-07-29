@@ -1,0 +1,39 @@
+[submodule "code/sharma-abhi/Kaggle"]
+	path = code/sharma-abhi/Kaggle
+	url = https://github.com/sharma-abhi/Kaggle.git
+[submodule "code/sharma-abhi/Kaggle.git"]
+	path = code/sharma-abhi/Kaggle.git
+	url = https://github.com/sharma-abhi/Kaggle.git
+[submodule "code/grfiv/titanic"]
+	path = code/grfiv/titanic
+	url = https://github.com/grfiv/titanic
+[submodule "code/mickwar/kaggle-penguins"]
+	path = code/mickwar/kaggle-penguins
+	url = https://github.com/mickwar/kaggle-penguins
+[submodule "code/sumitdas84/titanic-survival-analysis.git"]
+	path = code/sumitdas84/titanic-survival-analysis.git
+	url = https://github.com/sumitdas84/titanic-survival-analysis.git
+[submodule "code/trahflow/kaggle_titanic"]
+	path = code/trahflow/kaggle_titanic
+	url = https://github.com/trahflow/kaggle_titanic
+[submodule "code/cofri/Titanic.git"]
+	path = code/cofri/Titanic.git
+	url = https://github.com/cofri/Titanic.git
+[submodule "code/macchiatoism/KaggleTitanicMachineLearningFromDisaster"]
+	path = code/macchiatoism/KaggleTitanicMachineLearningFromDisaster
+	url = https://github.com/macchiatoism/KaggleTitanicMachineLearningFromDisaster
+[submodule "code/percpt/titanic"]
+	path = code/percpt/titanic
+	url = https://github.com/percpt/titanic
+[submodule "code/arturts/Kaggle-Titanic"]
+	path = code/arturts/Kaggle-Titanic
+	url = https://github.com/arturts/Kaggle-Titanic
+[submodule "code/gdtm86/kaggle-titanic"]
+	path = code/gdtm86/kaggle-titanic
+	url = https://github.com/gdtm86/kaggle-titanic
+[submodule "code/tdsmith/kaggle-titanic"]
+	path = code/tdsmith/kaggle-titanic
+	url = https://github.com/tdsmith/kaggle-titanic
+[submodule "code/rmnguleria/Kaggle_Titanic"]
+	path = code/rmnguleria/Kaggle_Titanic
+	url = https://github.com/rmnguleria/Kaggle_Titanic
