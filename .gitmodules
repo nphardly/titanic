@@ -37,3 +37,1461 @@
 [submodule "code/rmnguleria/Kaggle_Titanic"]
 	path = code/rmnguleria/Kaggle_Titanic
 	url = https://github.com/rmnguleria/Kaggle_Titanic
+[submodule "code/agconti/kaggle-titanic"]
+	path = code/agconti/kaggle-titanic
+	url = https://github.com/agconti/kaggle-titanic.git
+[submodule "code/birchsport/titanic"]
+	path = code/birchsport/titanic
+	url = https://github.com/birchsport/titanic.git
+[submodule "code/mattdelhey/kaggle-titanic"]
+	path = code/mattdelhey/kaggle-titanic
+	url = https://github.com/mattdelhey/kaggle-titanic.git
+[submodule "code/wehrley/Kaggle_Titanic"]
+	path = code/wehrley/Kaggle_Titanic
+	url = https://github.com/wehrley/Kaggle_Titanic.git
+[submodule "code/mneedham/kaggle-titanic"]
+	path = code/mneedham/kaggle-titanic
+	url = https://github.com/mneedham/kaggle-titanic.git
+[submodule "code/matthagy/titanic-families"]
+	path = code/matthagy/titanic-families
+	url = https://github.com/matthagy/titanic-families.git
+[submodule "code/ACM-UCI/kaggle_titanic"]
+	path = code/ACM-UCI/kaggle_titanic
+	url = https://github.com/ACM-UCI/kaggle_titanic.git
+[submodule "code/UltravioletAnalytics/kaggle-titanic"]
+	path = code/UltravioletAnalytics/kaggle-titanic
+	url = https://github.com/UltravioletAnalytics/kaggle-titanic.git
+[submodule "code/kv-kunalvyas/titanic"]
+	path = code/kv-kunalvyas/titanic
+	url = https://github.com/kv-kunalvyas/titanic.git
+[submodule "code/moeabdol/titanic"]
+	path = code/moeabdol/titanic
+	url = https://github.com/moeabdol/titanic.git
+[submodule "code/mdimercurio/TitanicR"]
+	path = code/mdimercurio/TitanicR
+	url = https://github.com/mdimercurio/TitanicR.git
+[submodule "code/redmode/titanic-kaggle"]
+	path = code/redmode/titanic-kaggle
+	url = https://github.com/redmode/titanic-kaggle.git
+[submodule "code/reallyjflynn/titanic_kaggle"]
+	path = code/reallyjflynn/titanic_kaggle
+	url = https://github.com/reallyjflynn/titanic_kaggle.git
+[submodule "code/tsundokum/mozgi-titanic"]
+	path = code/tsundokum/mozgi-titanic
+	url = https://github.com/tsundokum/mozgi-titanic.git
+[submodule "code/akermani/titanic"]
+	path = code/akermani/titanic
+	url = https://github.com/akermani/titanic.git
+[submodule "code/mwieler/titanic"]
+	path = code/mwieler/titanic
+	url = https://github.com/mwieler/titanic.git
+[submodule "code/sbairishal/Kaggle"]
+	path = code/sbairishal/Kaggle
+	url = https://github.com/sbairishal/Kaggle.git
+[submodule "code/BruceJillis/Titanic"]
+	path = code/BruceJillis/Titanic
+	url = https://github.com/BruceJillis/Titanic.git
+[submodule "code/nybbles/kaggle"]
+	path = code/nybbles/kaggle
+	url = https://github.com/nybbles/kaggle.git
+[submodule "code/nathesh/Titanic"]
+	path = code/nathesh/Titanic
+	url = https://github.com/nathesh/Titanic.git
+[submodule "code/astronerma/Titanic"]
+	path = code/astronerma/Titanic
+	url = https://github.com/astronerma/Titanic.git
+[submodule "code/today-is-a-good-day/titanic"]
+	path = code/today-is-a-good-day/titanic
+	url = https://github.com/today-is-a-good-day/titanic.git
+[submodule "code/akitty/titanic"]
+	path = code/akitty/titanic
+	url = https://github.com/akitty/titanic.git
+[submodule "code/rmcdonnell/titanic"]
+	path = code/rmcdonnell/titanic
+	url = https://github.com/rmcdonnell/titanic.git
+[submodule "code/barnettjacob/titanic"]
+	path = code/barnettjacob/titanic
+	url = https://github.com/barnettjacob/titanic.git
+[submodule "code/lilei8822/titanic"]
+	path = code/lilei8822/titanic
+	url = https://github.com/lilei8822/titanic.git
+[submodule "code/meyerson/titanic"]
+	path = code/meyerson/titanic
+	url = https://github.com/meyerson/titanic.git
+[submodule "code/AndyKom/Titanic"]
+	path = code/AndyKom/Titanic
+	url = https://github.com/AndyKom/Titanic.git
+[submodule "code/eignatenkov/titanic"]
+	path = code/eignatenkov/titanic
+	url = https://github.com/eignatenkov/titanic.git
+[submodule "code/jordabr/Titanic"]
+	path = code/jordabr/Titanic
+	url = https://github.com/jordabr/Titanic.git
+[submodule "code/AnneOnymous/titanic"]
+	path = code/AnneOnymous/titanic
+	url = https://github.com/AnneOnymous/titanic.git
+[submodule "code/zhan0243/Titanic"]
+	path = code/zhan0243/Titanic
+	url = https://github.com/zhan0243/Titanic.git
+[submodule "code/dlenz-bonn/titanic"]
+	path = code/dlenz-bonn/titanic
+	url = https://github.com/dlenz-bonn/titanic.git
+[submodule "code/e-mon/titanic"]
+	path = code/e-mon/titanic
+	url = https://github.com/e-mon/titanic.git
+[submodule "code/hamg6/titanic"]
+	path = code/hamg6/titanic
+	url = https://github.com/hamg6/titanic.git
+[submodule "code/cindycindyhi/kaggle-Titanic"]
+	path = code/cindycindyhi/kaggle-Titanic
+	url = https://github.com/cindycindyhi/kaggle-Titanic.git
+[submodule "code/BrontoBytez/Kaggle-Titanic"]
+	path = code/BrontoBytez/Kaggle-Titanic
+	url = https://github.com/BrontoBytez/Kaggle-Titanic.git
+[submodule "code/pcsanwald/kaggle-titanic"]
+	path = code/pcsanwald/kaggle-titanic
+	url = https://github.com/pcsanwald/kaggle-titanic.git
+[submodule "code/atduskgreg/kaggle-titanic"]
+	path = code/atduskgreg/kaggle-titanic
+	url = https://github.com/atduskgreg/kaggle-titanic.git
+[submodule "code/thesteady/titanic"]
+	path = code/thesteady/titanic
+	url = https://github.com/thesteady/titanic.git
+[submodule "code/ww44ss/Titanic"]
+	path = code/ww44ss/Titanic
+	url = https://github.com/ww44ss/Titanic.git
+[submodule "code/jrmuller00/titanic"]
+	path = code/jrmuller00/titanic
+	url = https://github.com/jrmuller00/titanic.git
+[submodule "code/XanderOlson/titanic"]
+	path = code/XanderOlson/titanic
+	url = https://github.com/XanderOlson/titanic.git
+[submodule "code/kalpanki/titanic"]
+	path = code/kalpanki/titanic
+	url = https://github.com/kalpanki/titanic.git
+[submodule "code/mishakob/Titanic"]
+	path = code/mishakob/Titanic
+	url = https://github.com/mishakob/Titanic.git
+[submodule "code/marcoskogaita/Titanic"]
+	path = code/marcoskogaita/Titanic
+	url = https://github.com/marcoskogaita/Titanic.git
+[submodule "code/Roon/titanic"]
+	path = code/Roon/titanic
+	url = https://github.com/Roon/titanic.git
+[submodule "code/RSmeets/Titanic"]
+	path = code/RSmeets/Titanic
+	url = https://github.com/RSmeets/Titanic.git
+[submodule "code/datasorcery/titanic"]
+	path = code/datasorcery/titanic
+	url = https://github.com/datasorcery/titanic.git
+[submodule "code/Polgy/Titanic"]
+	path = code/Polgy/Titanic
+	url = https://github.com/Polgy/Titanic.git
+[submodule "code/jtwigg/titanic"]
+	path = code/jtwigg/titanic
+	url = https://github.com/jtwigg/titanic.git
+[submodule "code/callowbird/Titanic"]
+	path = code/callowbird/Titanic
+	url = https://github.com/callowbird/Titanic.git
+[submodule "code/SP-Matet/titanic"]
+	path = code/SP-Matet/titanic
+	url = https://github.com/SP-Matet/titanic.git
+[submodule "code/vijaygkd/titanic"]
+	path = code/vijaygkd/titanic
+	url = https://github.com/vijaygkd/titanic.git
+[submodule "code/MillerLJY/Titanic"]
+	path = code/MillerLJY/Titanic
+	url = https://github.com/MillerLJY/Titanic.git
+[submodule "code/hsk86/Titanic"]
+	path = code/hsk86/Titanic
+	url = https://github.com/hsk86/Titanic.git
+[submodule "code/reggieag/Titanic"]
+	path = code/reggieag/Titanic
+	url = https://github.com/reggieag/Titanic.git
+[submodule "code/sergesiroezkin/titanic"]
+	path = code/sergesiroezkin/titanic
+	url = https://github.com/sergesiroezkin/titanic.git
+[submodule "code/mcwalters/titanic"]
+	path = code/mcwalters/titanic
+	url = https://github.com/mcwalters/titanic.git
+[submodule "code/kmgteano/Titanic"]
+	path = code/kmgteano/Titanic
+	url = https://github.com/kmgteano/Titanic.git
+[submodule "code/pzukin/Titanic"]
+	path = code/pzukin/Titanic
+	url = https://github.com/pzukin/Titanic.git
+[submodule "code/hotloo/titanic"]
+	path = code/hotloo/titanic
+	url = https://github.com/hotloo/titanic.git
+[submodule "code/jrslbenn/titanic"]
+	path = code/jrslbenn/titanic
+	url = https://github.com/jrslbenn/titanic.git
+[submodule "code/EloiZ/Titanic"]
+	path = code/EloiZ/Titanic
+	url = https://github.com/EloiZ/Titanic.git
+[submodule "code/Teabagger/titanic"]
+	path = code/Teabagger/titanic
+	url = https://github.com/Teabagger/titanic.git
+[submodule "code/tbonza/titanic"]
+	path = code/tbonza/titanic
+	url = https://github.com/tbonza/titanic.git
+[submodule "code/cwang912/titanic"]
+	path = code/cwang912/titanic
+	url = https://github.com/cwang912/titanic.git
+[submodule "code/SalteeDog/Titanic"]
+	path = code/SalteeDog/Titanic
+	url = https://github.com/SalteeDog/Titanic.git
+[submodule "code/knightofni/titanic"]
+	path = code/knightofni/titanic
+	url = https://github.com/knightofni/titanic.git
+[submodule "code/queirozfcom/titanic"]
+	path = code/queirozfcom/titanic
+	url = https://github.com/queirozfcom/titanic.git
+[submodule "code/otori23/Titanic"]
+	path = code/otori23/Titanic
+	url = https://github.com/otori23/Titanic.git
+[submodule "code/yollamttam/Titanic"]
+	path = code/yollamttam/Titanic
+	url = https://github.com/yollamttam/Titanic.git
+[submodule "code/pstessel/titanic"]
+	path = code/pstessel/titanic
+	url = https://github.com/pstessel/titanic.git
+[submodule "code/khmelkoff/Titanic"]
+	path = code/khmelkoff/Titanic
+	url = https://github.com/khmelkoff/Titanic.git
+[submodule "code/davehedengren/titanic"]
+	path = code/davehedengren/titanic
+	url = https://github.com/davehedengren/titanic.git
+[submodule "code/lethienhoa/Titanic"]
+	path = code/lethienhoa/Titanic
+	url = https://github.com/lethienhoa/Titanic.git
+[submodule "code/tttrinter/Titanic"]
+	path = code/tttrinter/Titanic
+	url = https://github.com/tttrinter/Titanic.git
+[submodule "code/crmonk/Titanic"]
+	path = code/crmonk/Titanic
+	url = https://github.com/crmonk/Titanic.git
+[submodule "code/predicador37/titanic"]
+	path = code/predicador37/titanic
+	url = https://github.com/predicador37/titanic.git
+[submodule "code/saihttam/titanic"]
+	path = code/saihttam/titanic
+	url = https://github.com/saihttam/titanic.git
+[submodule "code/swanderingf/Titanic"]
+	path = code/swanderingf/Titanic
+	url = https://github.com/swanderingf/Titanic.git
+[submodule "code/asterix135/titanic"]
+	path = code/asterix135/titanic
+	url = https://github.com/asterix135/titanic.git
+[submodule "code/msusol/titanic"]
+	path = code/msusol/titanic
+	url = https://github.com/msusol/titanic.git
+[submodule "code/enfeizhan/titanic"]
+	path = code/enfeizhan/titanic
+	url = https://github.com/enfeizhan/titanic.git
+[submodule "code/R-ladies/Titanic"]
+	path = code/R-ladies/Titanic
+	url = https://github.com/R-ladies/Titanic.git
+[submodule "code/MitchSanders/titanic"]
+	path = code/MitchSanders/titanic
+	url = https://github.com/MitchSanders/titanic.git
+[submodule "code/umarnawaz/titanic"]
+	path = code/umarnawaz/titanic
+	url = https://github.com/umarnawaz/titanic.git
+[submodule "code/kr-neerav/Titanic"]
+	path = code/kr-neerav/Titanic
+	url = https://github.com/kr-neerav/Titanic.git
+[submodule "code/PhyFrancis/Titanic"]
+	path = code/PhyFrancis/Titanic
+	url = https://github.com/PhyFrancis/Titanic.git
+[submodule "code/ptuls/Titanic"]
+	path = code/ptuls/Titanic
+	url = https://github.com/ptuls/Titanic.git
+[submodule "code/Yashar78/titanic"]
+	path = code/Yashar78/titanic
+	url = https://github.com/Yashar78/titanic.git
+[submodule "code/llefebure/titanic"]
+	path = code/llefebure/titanic
+	url = https://github.com/llefebure/titanic.git
+[submodule "code/elenagr/titanic"]
+	path = code/elenagr/titanic
+	url = https://github.com/elenagr/titanic.git
+[submodule "code/bheavner/titanic"]
+	path = code/bheavner/titanic
+	url = https://github.com/bheavner/titanic.git
+[submodule "code/rshipskind/titanic"]
+	path = code/rshipskind/titanic
+	url = https://github.com/rshipskind/titanic.git
+[submodule "code/Ffisegydd/titanic"]
+	path = code/Ffisegydd/titanic
+	url = https://github.com/Ffisegydd/titanic.git
+[submodule "code/armadillabs/titanic"]
+	path = code/armadillabs/titanic
+	url = https://github.com/armadillabs/titanic.git
+[submodule "code/fparas/Titanic"]
+	path = code/fparas/Titanic
+	url = https://github.com/fparas/Titanic.git
+[submodule "code/RobertArbon/Titanic"]
+	path = code/RobertArbon/Titanic
+	url = https://github.com/RobertArbon/Titanic.git
+[submodule "code/FedericoTe/Titanic"]
+	path = code/FedericoTe/Titanic
+	url = https://github.com/FedericoTe/Titanic.git
+[submodule "code/BlakePan/Titanic"]
+	path = code/BlakePan/Titanic
+	url = https://github.com/BlakePan/Titanic.git
+[submodule "code/shezard/Titanic"]
+	path = code/shezard/Titanic
+	url = https://github.com/shezard/Titanic.git
+[submodule "code/YujiShen/Titanic"]
+	path = code/YujiShen/Titanic
+	url = https://github.com/YujiShen/Titanic.git
+[submodule "code/mpoegel/Titanic"]
+	path = code/mpoegel/Titanic
+	url = https://github.com/mpoegel/Titanic.git
+[submodule "code/Skyhawk617/titanic"]
+	path = code/Skyhawk617/titanic
+	url = https://github.com/Skyhawk617/titanic.git
+[submodule "code/taiqing/titanic"]
+	path = code/taiqing/titanic
+	url = https://github.com/taiqing/titanic.git
+[submodule "code/elyase/titanic"]
+	path = code/elyase/titanic
+	url = https://github.com/elyase/titanic.git
+[submodule "code/Onlyindividu/Titanic"]
+	path = code/Onlyindividu/Titanic
+	url = https://github.com/Onlyindividu/Titanic.git
+[submodule "code/chadburge/Titanic"]
+	path = code/chadburge/Titanic
+	url = https://github.com/chadburge/Titanic.git
+[submodule "code/espooky7/titanic"]
+	path = code/espooky7/titanic
+	url = https://github.com/espooky7/titanic.git
+[submodule "code/evancchow/titanic"]
+	path = code/evancchow/titanic
+	url = https://github.com/evancchow/titanic.git
+[submodule "code/maclamont/Titanic"]
+	path = code/maclamont/Titanic
+	url = https://github.com/maclamont/Titanic.git
+[submodule "code/willhopkins/titanic"]
+	path = code/willhopkins/titanic
+	url = https://github.com/willhopkins/titanic.git
+[submodule "code/thiemom/titanic"]
+	path = code/thiemom/titanic
+	url = https://github.com/thiemom/titanic.git
+[submodule "code/IamGianluca/titanic"]
+	path = code/IamGianluca/titanic
+	url = https://github.com/IamGianluca/titanic.git
+[submodule "code/iargent/titanic"]
+	path = code/iargent/titanic
+	url = https://github.com/iargent/titanic.git
+[submodule "code/savarin/titanic"]
+	path = code/savarin/titanic
+	url = https://github.com/savarin/titanic.git
+[submodule "code/eugeneyan/Titanic"]
+	path = code/eugeneyan/Titanic
+	url = https://github.com/eugeneyan/Titanic.git
+[submodule "code/The-Skas/Titanic"]
+	path = code/The-Skas/Titanic
+	url = https://github.com/The-Skas/Titanic.git
+[submodule "code/charlesDADI/Titanic"]
+	path = code/charlesDADI/Titanic
+	url = https://github.com/charlesDADI/Titanic.git
+[submodule "code/kfuruya/titanic"]
+	path = code/kfuruya/titanic
+	url = https://github.com/kfuruya/titanic.git
+[submodule "code/nicodri/Titanic"]
+	path = code/nicodri/Titanic
+	url = https://github.com/nicodri/Titanic.git
+[submodule "code/kjford/Titanic"]
+	path = code/kjford/Titanic
+	url = https://github.com/kjford/Titanic.git
+[submodule "code/sb462/titanic"]
+	path = code/sb462/titanic
+	url = https://github.com/sb462/titanic.git
+[submodule "code/Mistborn/titanic"]
+	path = code/Mistborn/titanic
+	url = https://github.com/Mistborn/titanic.git
+[submodule "code/Tknow/titanic"]
+	path = code/Tknow/titanic
+	url = https://github.com/Tknow/titanic.git
+[submodule "code/MartinPons/titanic"]
+	path = code/MartinPons/titanic
+	url = https://github.com/MartinPons/titanic.git
+[submodule "code/mathias-brandewinder/Kaggle-Titanic"]
+	path = code/mathias-brandewinder/Kaggle-Titanic
+	url = https://github.com/mathias-brandewinder/Kaggle-Titanic.git
+[submodule "code/jwnorman/titanic"]
+	path = code/jwnorman/titanic
+	url = https://github.com/jwnorman/titanic.git
+[submodule "code/rrosario/kaggle_titanic"]
+	path = code/rrosario/kaggle_titanic
+	url = https://github.com/rrosario/kaggle_titanic.git
+[submodule "code/svenski/kaggle-titanic"]
+	path = code/svenski/kaggle-titanic
+	url = https://github.com/svenski/kaggle-titanic.git
+[submodule "code/bugrabalkac/kaggle-titanic"]
+	path = code/bugrabalkac/kaggle-titanic
+	url = https://github.com/bugrabalkac/kaggle-titanic.git
+[submodule "code/trubskyy/TitanicKaggle"]
+	path = code/trubskyy/TitanicKaggle
+	url = https://github.com/trubskyy/TitanicKaggle.git
+[submodule "code/rahulsengupta/Titanic_Tut"]
+	path = code/rahulsengupta/Titanic_Tut
+	url = https://github.com/rahulsengupta/Titanic_Tut.git
+[submodule "code/beanmind/kaggle-berlin-tutorial"]
+	path = code/beanmind/kaggle-berlin-tutorial
+	url = https://github.com/beanmind/kaggle-berlin-tutorial.git
+[submodule "code/aymenj/TitanicKaggle"]
+	path = code/aymenj/TitanicKaggle
+	url = https://github.com/aymenj/TitanicKaggle.git
+[submodule "code/mvanslobbe/KaggleTitanic"]
+	path = code/mvanslobbe/KaggleTitanic
+	url = https://github.com/mvanslobbe/KaggleTitanic.git
+[submodule "code/nlauchande/KaggleTitanic"]
+	path = code/nlauchande/KaggleTitanic
+	url = https://github.com/nlauchande/KaggleTitanic.git
+[submodule "code/ramasand/kaggleTitanic"]
+	path = code/ramasand/kaggleTitanic
+	url = https://github.com/ramasand/kaggleTitanic.git
+[submodule "code/ati-ozgur/kaggleTitanic"]
+	path = code/ati-ozgur/kaggleTitanic
+	url = https://github.com/ati-ozgur/kaggleTitanic.git
+[submodule "code/y-mitsui/kaggleTitanic"]
+	path = code/y-mitsui/kaggleTitanic
+	url = https://github.com/y-mitsui/kaggleTitanic.git
+[submodule "code/DmitriiK/KaggleTitanic"]
+	path = code/DmitriiK/KaggleTitanic
+	url = https://github.com/DmitriiK/KaggleTitanic.git
+[submodule "code/syeshwanth/KaggleTitanic"]
+	path = code/syeshwanth/KaggleTitanic
+	url = https://github.com/syeshwanth/KaggleTitanic.git
+[submodule "code/FelipeRego/KaggleTitanic"]
+	path = code/FelipeRego/KaggleTitanic
+	url = https://github.com/FelipeRego/KaggleTitanic.git
+[submodule "code/NLDK/KaggleTitanic"]
+	path = code/NLDK/KaggleTitanic
+	url = https://github.com/NLDK/KaggleTitanic.git
+[submodule "code/vikitripathi/kaggleTitanic"]
+	path = code/vikitripathi/kaggleTitanic
+	url = https://github.com/vikitripathi/kaggleTitanic.git
+[submodule "code/proutray/KaggleTitanic"]
+	path = code/proutray/KaggleTitanic
+	url = https://github.com/proutray/KaggleTitanic.git
+[submodule "code/maxwbuckley/KaggleTitanic"]
+	path = code/maxwbuckley/KaggleTitanic
+	url = https://github.com/maxwbuckley/KaggleTitanic.git
+[submodule "code/jchite84/KaggleTitanic"]
+	path = code/jchite84/KaggleTitanic
+	url = https://github.com/jchite84/KaggleTitanic.git
+[submodule "code/tupurcoder/KaggleTitanic"]
+	path = code/tupurcoder/KaggleTitanic
+	url = https://github.com/tupurcoder/KaggleTitanic.git
+[submodule "code/grifter102/KaggleTitanic"]
+	path = code/grifter102/KaggleTitanic
+	url = https://github.com/grifter102/KaggleTitanic.git
+[submodule "code/flower286/KaggleTitanic"]
+	path = code/flower286/KaggleTitanic
+	url = https://github.com/flower286/KaggleTitanic.git
+[submodule "code/ericdanz/TitanicPython"]
+	path = code/ericdanz/TitanicPython
+	url = https://github.com/ericdanz/TitanicPython.git
+[submodule "code/Digital-Rabbit/KaggleTitanic"]
+	path = code/Digital-Rabbit/KaggleTitanic
+	url = https://github.com/Digital-Rabbit/KaggleTitanic.git
+[submodule "code/giu87/KaggleTitanic"]
+	path = code/giu87/KaggleTitanic
+	url = https://github.com/giu87/KaggleTitanic.git
+[submodule "code/cpthappy/KaggleTitanic"]
+	path = code/cpthappy/KaggleTitanic
+	url = https://github.com/cpthappy/KaggleTitanic.git
+[submodule "code/Tobsen1x/KaggleTitanic"]
+	path = code/Tobsen1x/KaggleTitanic
+	url = https://github.com/Tobsen1x/KaggleTitanic.git
+[submodule "code/yogeshkauntia/KaggleTitanic"]
+	path = code/yogeshkauntia/KaggleTitanic
+	url = https://github.com/yogeshkauntia/KaggleTitanic.git
+[submodule "code/cwaldrop/KaggleTitanic"]
+	path = code/cwaldrop/KaggleTitanic
+	url = https://github.com/cwaldrop/KaggleTitanic.git
+[submodule "code/xkrt/KaggleTitanic"]
+	path = code/xkrt/KaggleTitanic
+	url = https://github.com/xkrt/KaggleTitanic.git
+[submodule "code/o0rebelious0o/KaggleTitanic"]
+	path = code/o0rebelious0o/KaggleTitanic
+	url = https://github.com/o0rebelious0o/KaggleTitanic.git
+[submodule "code/fonfonx/KaggleTitanic"]
+	path = code/fonfonx/KaggleTitanic
+	url = https://github.com/fonfonx/KaggleTitanic.git
+[submodule "code/Suriel-CWZZ/KagglesTitanic"]
+	path = code/Suriel-CWZZ/KagglesTitanic
+	url = https://github.com/Suriel-CWZZ/KagglesTitanic.git
+[submodule "code/LateTrain/KaggleTitanic"]
+	path = code/LateTrain/KaggleTitanic
+	url = https://github.com/LateTrain/KaggleTitanic.git
+[submodule "code/SachinSShinde/KaggleTitanic"]
+	path = code/SachinSShinde/KaggleTitanic
+	url = https://github.com/SachinSShinde/KaggleTitanic.git
+[submodule "code/jfro1/KaggleTitanic"]
+	path = code/jfro1/KaggleTitanic
+	url = https://github.com/jfro1/KaggleTitanic.git
+[submodule "code/alireza202/KaggleTitanic"]
+	path = code/alireza202/KaggleTitanic
+	url = https://github.com/alireza202/KaggleTitanic.git
+[submodule "code/allenwang28/KaggleTitanic"]
+	path = code/allenwang28/KaggleTitanic
+	url = https://github.com/allenwang28/KaggleTitanic.git
+[submodule "code/danielh13/KaggleGroupProject"]
+	path = code/danielh13/KaggleGroupProject
+	url = https://github.com/danielh13/KaggleGroupProject.git
+[submodule "code/chopley/kaggleCompetition"]
+	path = code/chopley/kaggleCompetition
+	url = https://github.com/chopley/kaggleCompetition.git
+[submodule "code/ihar/kaggle-titanic"]
+	path = code/ihar/kaggle-titanic
+	url = https://github.com/ihar/kaggle-titanic.git
+[submodule "code/niangaotuantuan/kaggle-Titanic"]
+	path = code/niangaotuantuan/kaggle-Titanic
+	url = https://github.com/niangaotuantuan/kaggle-Titanic.git
+[submodule "code/orenfalkowitz/Kaggle_Titanic"]
+	path = code/orenfalkowitz/Kaggle_Titanic
+	url = https://github.com/orenfalkowitz/Kaggle_Titanic.git
+[submodule "code/dborzov/kaggle-titanic"]
+	path = code/dborzov/kaggle-titanic
+	url = https://github.com/dborzov/kaggle-titanic.git
+[submodule "code/danielfrg/kaggle-titanic"]
+	path = code/danielfrg/kaggle-titanic
+	url = https://github.com/danielfrg/kaggle-titanic.git
+[submodule "code/koyarei/titanic_kaggle"]
+	path = code/koyarei/titanic_kaggle
+	url = https://github.com/koyarei/titanic_kaggle.git
+[submodule "code/jamescorsini/Kaggle_Titanic"]
+	path = code/jamescorsini/Kaggle_Titanic
+	url = https://github.com/jamescorsini/Kaggle_Titanic.git
+[submodule "code/MLF26/Kaggle-Titanic"]
+	path = code/MLF26/Kaggle-Titanic
+	url = https://github.com/MLF26/Kaggle-Titanic.git
+[submodule "code/ingvarp/kaggle-titanic"]
+	path = code/ingvarp/kaggle-titanic
+	url = https://github.com/ingvarp/kaggle-titanic.git
+[submodule "code/Preeti217/Titanic-Kaggle"]
+	path = code/Preeti217/Titanic-Kaggle
+	url = https://github.com/Preeti217/Titanic-Kaggle.git
+[submodule "code/vermosen/kaggle_titanic"]
+	path = code/vermosen/kaggle_titanic
+	url = https://github.com/vermosen/kaggle_titanic.git
+[submodule "code/LCHansson/kaggle_titanic"]
+	path = code/LCHansson/kaggle_titanic
+	url = https://github.com/LCHansson/kaggle_titanic.git
+[submodule "code/HMiedema/Kaggle-Titanic"]
+	path = code/HMiedema/Kaggle-Titanic
+	url = https://github.com/HMiedema/Kaggle-Titanic.git
+[submodule "code/andrestc/kaggle-titanic"]
+	path = code/andrestc/kaggle-titanic
+	url = https://github.com/andrestc/kaggle-titanic.git
+[submodule "code/andylee024/Titanic-Kaggle-"]
+	path = code/andylee024/Titanic-Kaggle-
+	url = https://github.com/andylee024/Titanic-Kaggle-.git
+[submodule "code/idiosyncraticee/kaggle_titanic"]
+	path = code/idiosyncraticee/kaggle_titanic
+	url = https://github.com/idiosyncraticee/kaggle_titanic.git
+[submodule "code/keithgw/kaggle_Titanic"]
+	path = code/keithgw/kaggle_Titanic
+	url = https://github.com/keithgw/kaggle_Titanic.git
+[submodule "code/miyamamoto/kaggle_titanic"]
+	path = code/miyamamoto/kaggle_titanic
+	url = https://github.com/miyamamoto/kaggle_titanic.git
+[submodule "code/kevindavenport/Kaggle_Titanic"]
+	path = code/kevindavenport/Kaggle_Titanic
+	url = https://github.com/kevindavenport/Kaggle_Titanic.git
+[submodule "code/CrossTheStreams/kaggle_titanic"]
+	path = code/CrossTheStreams/kaggle_titanic
+	url = https://github.com/CrossTheStreams/kaggle_titanic.git
+[submodule "code/yikelu/kaggle_titanic"]
+	path = code/yikelu/kaggle_titanic
+	url = https://github.com/yikelu/kaggle_titanic.git
+[submodule "code/JelleVE/kaggle-titanic"]
+	path = code/JelleVE/kaggle-titanic
+	url = https://github.com/JelleVE/kaggle-titanic.git
+[submodule "code/alexeyza/Kaggle-Titanic"]
+	path = code/alexeyza/Kaggle-Titanic
+	url = https://github.com/alexeyza/Kaggle-Titanic.git
+[submodule "code/seylom/kaggle_titanic"]
+	path = code/seylom/kaggle_titanic
+	url = https://github.com/seylom/kaggle_titanic.git
+[submodule "code/FreelancerFel/Kaggle---Titanic"]
+	path = code/FreelancerFel/Kaggle---Titanic
+	url = https://github.com/FreelancerFel/Kaggle---Titanic.git
+[submodule "code/jcma08/kaggle-titanic"]
+	path = code/jcma08/kaggle-titanic
+	url = https://github.com/jcma08/kaggle-titanic.git
+[submodule "code/mpiccirilli/Kaggle-Titanic"]
+	path = code/mpiccirilli/Kaggle-Titanic
+	url = https://github.com/mpiccirilli/Kaggle-Titanic.git
+[submodule "code/kmarenov/kaggle-titanic"]
+	path = code/kmarenov/kaggle-titanic
+	url = https://github.com/kmarenov/kaggle-titanic.git
+[submodule "code/campustimes/kaggle_titanic"]
+	path = code/campustimes/kaggle_titanic
+	url = https://github.com/campustimes/kaggle_titanic.git
+[submodule "code/jdvermeire/kaggle-titanic"]
+	path = code/jdvermeire/kaggle-titanic
+	url = https://github.com/jdvermeire/kaggle-titanic.git
+[submodule "code/denniskorablev/Titanic-Kaggle"]
+	path = code/denniskorablev/Titanic-Kaggle
+	url = https://github.com/denniskorablev/Titanic-Kaggle.git
+[submodule "code/benno001/kaggle-titanic"]
+	path = code/benno001/kaggle-titanic
+	url = https://github.com/benno001/kaggle-titanic.git
+[submodule "code/j9ac9k/kaggle-Titanic"]
+	path = code/j9ac9k/kaggle-Titanic
+	url = https://github.com/j9ac9k/kaggle-Titanic.git
+[submodule "code/dmark/kaggle-titanic"]
+	path = code/dmark/kaggle-titanic
+	url = https://github.com/dmark/kaggle-titanic.git
+[submodule "code/jpopham91/kaggle-titanic"]
+	path = code/jpopham91/kaggle-titanic
+	url = https://github.com/jpopham91/kaggle-titanic.git
+[submodule "code/puneet023/Kaggle_titanic"]
+	path = code/puneet023/Kaggle_titanic
+	url = https://github.com/puneet023/Kaggle_titanic.git
+[submodule "code/hkrusers/kaggle-titanic"]
+	path = code/hkrusers/kaggle-titanic
+	url = https://github.com/hkrusers/kaggle-titanic.git
+[submodule "code/saurfang/Kaggle-Titanic"]
+	path = code/saurfang/Kaggle-Titanic
+	url = https://github.com/saurfang/Kaggle-Titanic.git
+[submodule "code/tejesh95/Kaggle-Titanic"]
+	path = code/tejesh95/Kaggle-Titanic
+	url = https://github.com/tejesh95/Kaggle-Titanic.git
+[submodule "code/patrick-miller/kaggle-Titanic"]
+	path = code/patrick-miller/kaggle-Titanic
+	url = https://github.com/patrick-miller/kaggle-Titanic.git
+[submodule "code/jayashkoshal/titanic_kaggle"]
+	path = code/jayashkoshal/titanic_kaggle
+	url = https://github.com/jayashkoshal/titanic_kaggle.git
+[submodule "code/yujim78/kaggle_titanic"]
+	path = code/yujim78/kaggle_titanic
+	url = https://github.com/yujim78/kaggle_titanic.git
+[submodule "code/bfoste01/Kaggle_Titanic"]
+	path = code/bfoste01/Kaggle_Titanic
+	url = https://github.com/bfoste01/Kaggle_Titanic.git
+[submodule "code/heaven00/titanic-kaggle"]
+	path = code/heaven00/titanic-kaggle
+	url = https://github.com/heaven00/titanic-kaggle.git
+[submodule "code/Yamu/kaggle_titanic"]
+	path = code/Yamu/kaggle_titanic
+	url = https://github.com/Yamu/kaggle_titanic.git
+[submodule "code/nickitaliano/Kaggle_Titanic"]
+	path = code/nickitaliano/Kaggle_Titanic
+	url = https://github.com/nickitaliano/Kaggle_Titanic.git
+[submodule "code/Xianma/kaggle_Titanic"]
+	path = code/Xianma/kaggle_Titanic
+	url = https://github.com/Xianma/kaggle_Titanic.git
+[submodule "code/ktrnka/kaggle-titanic"]
+	path = code/ktrnka/kaggle-titanic
+	url = https://github.com/ktrnka/kaggle-titanic.git
+[submodule "code/sl2/Kaggle_Titanic"]
+	path = code/sl2/Kaggle_Titanic
+	url = https://github.com/sl2/Kaggle_Titanic.git
+[submodule "code/dannychan0510/kaggle-titanic"]
+	path = code/dannychan0510/kaggle-titanic
+	url = https://github.com/dannychan0510/kaggle-titanic.git
+[submodule "code/vabraham/Kaggle_Titanic"]
+	path = code/vabraham/Kaggle_Titanic
+	url = https://github.com/vabraham/Kaggle_Titanic.git
+[submodule "code/atelierhide/kaggle-titanic"]
+	path = code/atelierhide/kaggle-titanic
+	url = https://github.com/atelierhide/kaggle-titanic.git
+[submodule "code/bill-hkc/kaggle-Titanic"]
+	path = code/bill-hkc/kaggle-Titanic
+	url = https://github.com/bill-hkc/kaggle-Titanic.git
+[submodule "code/Themosp/Titanic-Kaggle"]
+	path = code/Themosp/Titanic-Kaggle
+	url = https://github.com/Themosp/Titanic-Kaggle.git
+[submodule "code/hsssgddtc/kaggle-Titanic"]
+	path = code/hsssgddtc/kaggle-Titanic
+	url = https://github.com/hsssgddtc/kaggle-Titanic.git
+[submodule "code/juraseg/kaggle_titanic"]
+	path = code/juraseg/kaggle_titanic
+	url = https://github.com/juraseg/kaggle_titanic.git
+[submodule "code/kohei110/Kaggle_Titanic"]
+	path = code/kohei110/Kaggle_Titanic
+	url = https://github.com/kohei110/Kaggle_Titanic.git
+[submodule "code/jay-mtl/Titanic-Kaggle"]
+	path = code/jay-mtl/Titanic-Kaggle
+	url = https://github.com/jay-mtl/Titanic-Kaggle.git
+[submodule "code/iamzog/kaggle_titanic"]
+	path = code/iamzog/kaggle_titanic
+	url = https://github.com/iamzog/kaggle_titanic.git
+[submodule "code/nicklawls/kaggle_titanic"]
+	path = code/nicklawls/kaggle_titanic
+	url = https://github.com/nicklawls/kaggle_titanic.git
+[submodule "code/stewpage/Kaggle_Titanic"]
+	path = code/stewpage/Kaggle_Titanic
+	url = https://github.com/stewpage/Kaggle_Titanic.git
+[submodule "code/luckystrike59/Kaggle_Titanic"]
+	path = code/luckystrike59/Kaggle_Titanic
+	url = https://github.com/luckystrike59/Kaggle_Titanic.git
+[submodule "code/parasmehta/titanic_kaggle"]
+	path = code/parasmehta/titanic_kaggle
+	url = https://github.com/parasmehta/titanic_kaggle.git
+[submodule "code/lky93/Kaggle-titanic"]
+	path = code/lky93/Kaggle-titanic
+	url = https://github.com/lky93/Kaggle-titanic.git
+[submodule "code/notangas/titanic_kaggle"]
+	path = code/notangas/titanic_kaggle
+	url = https://github.com/notangas/titanic_kaggle.git
+[submodule "code/pdamodaran/Kaggle_Titanic"]
+	path = code/pdamodaran/Kaggle_Titanic
+	url = https://github.com/pdamodaran/Kaggle_Titanic.git
+[submodule "code/weedjy/kaggle-titanic"]
+	path = code/weedjy/kaggle-titanic
+	url = https://github.com/weedjy/kaggle-titanic.git
+[submodule "code/randall-frank/kaggle_titanic"]
+	path = code/randall-frank/kaggle_titanic
+	url = https://github.com/randall-frank/kaggle_titanic.git
+[submodule "code/abevieiramota/kaggle-titanic"]
+	path = code/abevieiramota/kaggle-titanic
+	url = https://github.com/abevieiramota/kaggle-titanic.git
+[submodule "code/geraudster/titanic-kaggle"]
+	path = code/geraudster/titanic-kaggle
+	url = https://github.com/geraudster/titanic-kaggle.git
+[submodule "code/aliok/titanic-kaggle"]
+	path = code/aliok/titanic-kaggle
+	url = https://github.com/aliok/titanic-kaggle.git
+[submodule "code/ioananegrut/Titanic-Kaggle"]
+	path = code/ioananegrut/Titanic-Kaggle
+	url = https://github.com/ioananegrut/Titanic-Kaggle.git
+[submodule "code/wboayue/kaggle-titanic"]
+	path = code/wboayue/kaggle-titanic
+	url = https://github.com/wboayue/kaggle-titanic.git
+[submodule "code/jqchen24/Kaggle_Titanic"]
+	path = code/jqchen24/Kaggle_Titanic
+	url = https://github.com/jqchen24/Kaggle_Titanic.git
+[submodule "code/edoven/kaggle-titanic"]
+	path = code/edoven/kaggle-titanic
+	url = https://github.com/edoven/kaggle-titanic.git
+[submodule "code/tommathewXC/Kaggle-Titanic"]
+	path = code/tommathewXC/Kaggle-Titanic
+	url = https://github.com/tommathewXC/Kaggle-Titanic.git
+[submodule "code/rykov8/titanic_kaggle"]
+	path = code/rykov8/titanic_kaggle
+	url = https://github.com/rykov8/titanic_kaggle.git
+[submodule "code/rigtorp/kaggle-titanic"]
+	path = code/rigtorp/kaggle-titanic
+	url = https://github.com/rigtorp/kaggle-titanic.git
+[submodule "code/angelcymak/Kaggle_titanic"]
+	path = code/angelcymak/Kaggle_titanic
+	url = https://github.com/angelcymak/Kaggle_titanic.git
+[submodule "code/kaltera/Titanic_Kaggle"]
+	path = code/kaltera/Titanic_Kaggle
+	url = https://github.com/kaltera/Titanic_Kaggle.git
+[submodule "code/joshuart/Kaggle.Titanic"]
+	path = code/joshuart/Kaggle.Titanic
+	url = https://github.com/joshuart/Kaggle.Titanic.git
+[submodule "code/raywan/kaggle-titanic"]
+	path = code/raywan/kaggle-titanic
+	url = https://github.com/raywan/kaggle-titanic.git
+[submodule "code/syedaamiripu/kaggle_titanic"]
+	path = code/syedaamiripu/kaggle_titanic
+	url = https://github.com/syedaamiripu/kaggle_titanic.git
+[submodule "code/Thor90/Kaggle_Titanic"]
+	path = code/Thor90/Kaggle_Titanic
+	url = https://github.com/Thor90/Kaggle_Titanic.git
+[submodule "code/smaragdouls/DataMiningKaggle"]
+	path = code/smaragdouls/DataMiningKaggle
+	url = https://github.com/smaragdouls/DataMiningKaggle.git
+[submodule "code/valexandersaulys/kaggle_titanic"]
+	path = code/valexandersaulys/kaggle_titanic
+	url = https://github.com/valexandersaulys/kaggle_titanic.git
+[submodule "code/mbesancon/Kaggle_Titanic"]
+	path = code/mbesancon/Kaggle_Titanic
+	url = https://github.com/mbesancon/Kaggle_Titanic.git
+[submodule "code/shankarmsy/kaggle_Titanic"]
+	path = code/shankarmsy/kaggle_Titanic
+	url = https://github.com/shankarmsy/kaggle_Titanic.git
+[submodule "code/rousseab/Kaggle_Titanic"]
+	path = code/rousseab/Kaggle_Titanic
+	url = https://github.com/rousseab/Kaggle_Titanic.git
+[submodule "code/jfraj/kaggle_titanic"]
+	path = code/jfraj/kaggle_titanic
+	url = https://github.com/jfraj/kaggle_titanic.git
+[submodule "code/chubchubcharles/kaggle-titanic"]
+	path = code/chubchubcharles/kaggle-titanic
+	url = https://github.com/chubchubcharles/kaggle-titanic.git
+[submodule "code/caimichael/Titanic_Kaggle"]
+	path = code/caimichael/Titanic_Kaggle
+	url = https://github.com/caimichael/Titanic_Kaggle.git
+[submodule "code/canivel/Titanic-Kaggle"]
+	path = code/canivel/Titanic-Kaggle
+	url = https://github.com/canivel/Titanic-Kaggle.git
+[submodule "code/matthewcpollard/kaggle-titanic"]
+	path = code/matthewcpollard/kaggle-titanic
+	url = https://github.com/matthewcpollard/kaggle-titanic.git
+[submodule "code/ranuva/kaggle-titanic"]
+	path = code/ranuva/kaggle-titanic
+	url = https://github.com/ranuva/kaggle-titanic.git
+[submodule "code/vikkamath/Kaggle-Titanic"]
+	path = code/vikkamath/Kaggle-Titanic
+	url = https://github.com/vikkamath/Kaggle-Titanic.git
+[submodule "code/rdimaggio/kaggle_titanic"]
+	path = code/rdimaggio/kaggle_titanic
+	url = https://github.com/rdimaggio/kaggle_titanic.git
+[submodule "code/timseed/Titanic-kaggle"]
+	path = code/timseed/Titanic-kaggle
+	url = https://github.com/timseed/Titanic-kaggle.git
+[submodule "code/gowdhamand/kaggle-titanic"]
+	path = code/gowdhamand/kaggle-titanic
+	url = https://github.com/gowdhamand/kaggle-titanic.git
+[submodule "code/niallj/kaggle-titanic"]
+	path = code/niallj/kaggle-titanic
+	url = https://github.com/niallj/kaggle-titanic.git
+[submodule "code/elsid/kaggle-titanic"]
+	path = code/elsid/kaggle-titanic
+	url = https://github.com/elsid/kaggle-titanic.git
+[submodule "code/karenxiao/kaggle-titanic"]
+	path = code/karenxiao/kaggle-titanic
+	url = https://github.com/karenxiao/kaggle-titanic.git
+[submodule "code/CryptoJenga/Kaggle_Titanic"]
+	path = code/CryptoJenga/Kaggle_Titanic
+	url = https://github.com/CryptoJenga/Kaggle_Titanic.git
+[submodule "code/kogreger/kaggle_titanic"]
+	path = code/kogreger/kaggle_titanic
+	url = https://github.com/kogreger/kaggle_titanic.git
+[submodule "code/tnybny/Titanic-kaggle"]
+	path = code/tnybny/Titanic-kaggle
+	url = https://github.com/tnybny/Titanic-kaggle.git
+[submodule "code/cyou97/Kaggle-Titanic"]
+	path = code/cyou97/Kaggle-Titanic
+	url = https://github.com/cyou97/Kaggle-Titanic.git
+[submodule "code/AndrewManHayChiu/Kaggle_Titanic"]
+	path = code/AndrewManHayChiu/Kaggle_Titanic
+	url = https://github.com/AndrewManHayChiu/Kaggle_Titanic.git
+[submodule "code/rhlkmr/Kaggle-Titanic"]
+	path = code/rhlkmr/Kaggle-Titanic
+	url = https://github.com/rhlkmr/Kaggle-Titanic.git
+[submodule "code/Success2014/Titanic_Kaggle"]
+	path = code/Success2014/Titanic_Kaggle
+	url = https://github.com/Success2014/Titanic_Kaggle.git
+[submodule "code/gblazq/titanic-kaggle"]
+	path = code/gblazq/titanic-kaggle
+	url = https://github.com/gblazq/titanic-kaggle.git
+[submodule "code/purnawirman/kaggle-titanic"]
+	path = code/purnawirman/kaggle-titanic
+	url = https://github.com/purnawirman/kaggle-titanic.git
+[submodule "code/Kunone/Kaggle-Titanic"]
+	path = code/Kunone/Kaggle-Titanic
+	url = https://github.com/Kunone/Kaggle-Titanic.git
+[submodule "code/nl-hugo/kaggle-titanic"]
+	path = code/nl-hugo/kaggle-titanic
+	url = https://github.com/nl-hugo/kaggle-titanic.git
+[submodule "code/aimeemurphy/kaggle_titanic"]
+	path = code/aimeemurphy/kaggle_titanic
+	url = https://github.com/aimeemurphy/kaggle_titanic.git
+[submodule "code/CNevd/Kaggle-Titanic"]
+	path = code/CNevd/Kaggle-Titanic
+	url = https://github.com/CNevd/Kaggle-Titanic.git
+[submodule "code/hassaku63/kaggle-titanic"]
+	path = code/hassaku63/kaggle-titanic
+	url = https://github.com/hassaku63/kaggle-titanic.git
+[submodule "code/rubfergor/Kaggle_Titanic"]
+	path = code/rubfergor/Kaggle_Titanic
+	url = https://github.com/rubfergor/Kaggle_Titanic.git
+[submodule "code/thearpitgupta/kaggle_titanic"]
+	path = code/thearpitgupta/kaggle_titanic
+	url = https://github.com/thearpitgupta/kaggle_titanic.git
+[submodule "code/Digma/Kaggle-Titanic"]
+	path = code/Digma/Kaggle-Titanic
+	url = https://github.com/Digma/Kaggle-Titanic.git
+[submodule "code/Tom-Demijohn/kaggle-titanic"]
+	path = code/Tom-Demijohn/kaggle-titanic
+	url = https://github.com/Tom-Demijohn/kaggle-titanic.git
+[submodule "code/dsindy/kaggle-titanic"]
+	path = code/dsindy/kaggle-titanic
+	url = https://github.com/dsindy/kaggle-titanic.git
+[submodule "code/iychen/kaggle-titanic"]
+	path = code/iychen/kaggle-titanic
+	url = https://github.com/iychen/kaggle-titanic.git
+[submodule "code/GGXH/Kaggle_titanic"]
+	path = code/GGXH/Kaggle_titanic
+	url = https://github.com/GGXH/Kaggle_titanic.git
+[submodule "code/asedgwick/Kaggle-Titanic"]
+	path = code/asedgwick/Kaggle-Titanic
+	url = https://github.com/asedgwick/Kaggle-Titanic.git
+[submodule "code/calvin-n-hobbes/kaggle-titanic"]
+	path = code/calvin-n-hobbes/kaggle-titanic
+	url = https://github.com/calvin-n-hobbes/kaggle-titanic.git
+[submodule "code/gauravagarwalr/Kaggle-Titanic"]
+	path = code/gauravagarwalr/Kaggle-Titanic
+	url = https://github.com/gauravagarwalr/Kaggle-Titanic.git
+[submodule "code/jjh5030/kaggle_titanic"]
+	path = code/jjh5030/kaggle_titanic
+	url = https://github.com/jjh5030/kaggle_titanic.git
+[submodule "code/lvaylet/kaggle-titanic"]
+	path = code/lvaylet/kaggle-titanic
+	url = https://github.com/lvaylet/kaggle-titanic.git
+[submodule "code/josephmisiti/kaggle-titanic"]
+	path = code/josephmisiti/kaggle-titanic
+	url = https://github.com/josephmisiti/kaggle-titanic.git
+[submodule "code/Atlas7/kaggle-titanic"]
+	path = code/Atlas7/kaggle-titanic
+	url = https://github.com/Atlas7/kaggle-titanic.git
+[submodule "code/ianxxiao/kaggle-titanic"]
+	path = code/ianxxiao/kaggle-titanic
+	url = https://github.com/ianxxiao/kaggle-titanic.git
+[submodule "code/g-votte/kaggle-titanic"]
+	path = code/g-votte/kaggle-titanic
+	url = https://github.com/g-votte/kaggle-titanic.git
+[submodule "code/RahulShivkumar/Titanic-Kaggle"]
+	path = code/RahulShivkumar/Titanic-Kaggle
+	url = https://github.com/RahulShivkumar/Titanic-Kaggle.git
+[submodule "code/mikhailklassen/kaggle_titanic"]
+	path = code/mikhailklassen/kaggle_titanic
+	url = https://github.com/mikhailklassen/kaggle_titanic.git
+[submodule "code/prashantc29/kaggle-titanic"]
+	path = code/prashantc29/kaggle-titanic
+	url = https://github.com/prashantc29/kaggle-titanic.git
+[submodule "code/heidi129/kaggle-titanic"]
+	path = code/heidi129/kaggle-titanic
+	url = https://github.com/heidi129/kaggle-titanic.git
+[submodule "code/hkaushalya/Kaggle_Titanic"]
+	path = code/hkaushalya/Kaggle_Titanic
+	url = https://github.com/hkaushalya/Kaggle_Titanic.git
+[submodule "code/craftstuart/kaggle-titanic"]
+	path = code/craftstuart/kaggle-titanic
+	url = https://github.com/craftstuart/kaggle-titanic.git
+[submodule "code/Eric-Xu/kaggle-titanic"]
+	path = code/Eric-Xu/kaggle-titanic
+	url = https://github.com/Eric-Xu/kaggle-titanic.git
+[submodule "code/goerlitz/kaggle-titanic"]
+	path = code/goerlitz/kaggle-titanic
+	url = https://github.com/goerlitz/kaggle-titanic.git
+[submodule "code/yesjonbrown/Kaggle_titanic"]
+	path = code/yesjonbrown/Kaggle_titanic
+	url = https://github.com/yesjonbrown/Kaggle_titanic.git
+[submodule "code/datapress/kaggle-titanic"]
+	path = code/datapress/kaggle-titanic
+	url = https://github.com/datapress/kaggle-titanic.git
+[submodule "code/timmyshen/kaggle-titanic"]
+	path = code/timmyshen/kaggle-titanic
+	url = https://github.com/timmyshen/kaggle-titanic.git
+[submodule "code/Broham/kaggle-titanic"]
+	path = code/Broham/kaggle-titanic
+	url = https://github.com/Broham/kaggle-titanic.git
+[submodule "code/michaeltoth/kaggle-titanic"]
+	path = code/michaeltoth/kaggle-titanic
+	url = https://github.com/michaeltoth/kaggle-titanic.git
+[submodule "code/jesusmoranbarbon/Titanic-kaggle"]
+	path = code/jesusmoranbarbon/Titanic-kaggle
+	url = https://github.com/jesusmoranbarbon/Titanic-kaggle.git
+[submodule "code/Kaggle-Practice-Group/Kaggle_Titanic"]
+	path = code/Kaggle-Practice-Group/Kaggle_Titanic
+	url = https://github.com/Kaggle-Practice-Group/Kaggle_Titanic.git
+[submodule "code/codebender/kaggle-titanic"]
+	path = code/codebender/kaggle-titanic
+	url = https://github.com/codebender/kaggle-titanic.git
+[submodule "code/rajpalkulhari/kaggle-titanic"]
+	path = code/rajpalkulhari/kaggle-titanic
+	url = https://github.com/rajpalkulhari/kaggle-titanic.git
+[submodule "code/michi-jeremias/Kaggle_Titanic"]
+	path = code/michi-jeremias/Kaggle_Titanic
+	url = https://github.com/michi-jeremias/Kaggle_Titanic.git
+[submodule "code/dkvasnicka/kaggle-titanic"]
+	path = code/dkvasnicka/kaggle-titanic
+	url = https://github.com/dkvasnicka/kaggle-titanic.git
+[submodule "code/yoshuae/Kaggle_Titanic"]
+	path = code/yoshuae/Kaggle_Titanic
+	url = https://github.com/yoshuae/Kaggle_Titanic.git
+[submodule "code/lorenzol/kaggle_titanic"]
+	path = code/lorenzol/kaggle_titanic
+	url = https://github.com/lorenzol/kaggle_titanic.git
+[submodule "code/mblaauw/kaggle-titanic"]
+	path = code/mblaauw/kaggle-titanic
+	url = https://github.com/mblaauw/kaggle-titanic.git
+[submodule "code/danmidwood/kaggle-titanic"]
+	path = code/danmidwood/kaggle-titanic
+	url = https://github.com/danmidwood/kaggle-titanic.git
+[submodule "code/cstoafer/kaggle-titanic"]
+	path = code/cstoafer/kaggle-titanic
+	url = https://github.com/cstoafer/kaggle-titanic.git
+[submodule "code/theofpa/kaggle-titanic"]
+	path = code/theofpa/kaggle-titanic
+	url = https://github.com/theofpa/kaggle-titanic.git
+[submodule "code/sk187/kaggle-titanic"]
+	path = code/sk187/kaggle-titanic
+	url = https://github.com/sk187/kaggle-titanic.git
+[submodule "code/shashankpokhriyal/Kaggle_Titanic"]
+	path = code/shashankpokhriyal/Kaggle_Titanic
+	url = https://github.com/shashankpokhriyal/Kaggle_Titanic.git
+[submodule "code/ravediamond/kaggle_titanic"]
+	path = code/ravediamond/kaggle_titanic
+	url = https://github.com/ravediamond/kaggle_titanic.git
+[submodule "code/regularchaos/kaggle-titanic"]
+	path = code/regularchaos/kaggle-titanic
+	url = https://github.com/regularchaos/kaggle-titanic.git
+[submodule "code/NeethanWu/Kaggle_Titanic"]
+	path = code/NeethanWu/Kaggle_Titanic
+	url = https://github.com/NeethanWu/Kaggle_Titanic.git
+[submodule "code/exans/Kaggle-Titanic"]
+	path = code/exans/Kaggle-Titanic
+	url = https://github.com/exans/Kaggle-Titanic.git
+[submodule "code/wpmcdonald2000/Kaggle_Titanic"]
+	path = code/wpmcdonald2000/Kaggle_Titanic
+	url = https://github.com/wpmcdonald2000/Kaggle_Titanic.git
+[submodule "code/csizsek/kaggle-titanic"]
+	path = code/csizsek/kaggle-titanic
+	url = https://github.com/csizsek/kaggle-titanic.git
+[submodule "code/abhirajtomar/kaggle_titanic"]
+	path = code/abhirajtomar/kaggle_titanic
+	url = https://github.com/abhirajtomar/kaggle_titanic.git
+[submodule "code/kevin11h/kaggle-titanic"]
+	path = code/kevin11h/kaggle-titanic
+	url = https://github.com/kevin11h/kaggle-titanic.git
+[submodule "code/znafz/Kaggle-Titanic"]
+	path = code/znafz/Kaggle-Titanic
+	url = https://github.com/znafz/Kaggle-Titanic.git
+[submodule "code/da-ta-vinci21/Kaggle_Titanic"]
+	path = code/da-ta-vinci21/Kaggle_Titanic
+	url = https://github.com/da-ta-vinci21/Kaggle_Titanic.git
+[submodule "code/kelxvel/kaggle-titanic"]
+	path = code/kelxvel/kaggle-titanic
+	url = https://github.com/kelxvel/kaggle-titanic.git
+[submodule "code/GL-Li/kaggle_titanic"]
+	path = code/GL-Li/kaggle_titanic
+	url = https://github.com/GL-Li/kaggle_titanic.git
+[submodule "code/jxc166/kaggle-titanic"]
+	path = code/jxc166/kaggle-titanic
+	url = https://github.com/jxc166/kaggle-titanic.git
+[submodule "code/hannarud/kaggle-titanic"]
+	path = code/hannarud/kaggle-titanic
+	url = https://github.com/hannarud/kaggle-titanic.git
+[submodule "code/mhasanbulli/kaggle_titanic"]
+	path = code/mhasanbulli/kaggle_titanic
+	url = https://github.com/mhasanbulli/kaggle_titanic.git
+[submodule "code/niranjansd/kaggle-titanic"]
+	path = code/niranjansd/kaggle-titanic
+	url = https://github.com/niranjansd/kaggle-titanic.git
+[submodule "code/ZeroStack/titanic_kaggle"]
+	path = code/ZeroStack/titanic_kaggle
+	url = https://github.com/ZeroStack/titanic_kaggle.git
+[submodule "code/zliu008/kaggle_titanic"]
+	path = code/zliu008/kaggle_titanic
+	url = https://github.com/zliu008/kaggle_titanic.git
+[submodule "code/dubin555/kaggle-titanic"]
+	path = code/dubin555/kaggle-titanic
+	url = https://github.com/dubin555/kaggle-titanic.git
+[submodule "code/andylikescodes/Kaggle-Titanic"]
+	path = code/andylikescodes/Kaggle-Titanic
+	url = https://github.com/andylikescodes/Kaggle-Titanic.git
+[submodule "code/anton-rusanov/kaggle-titanic"]
+	path = code/anton-rusanov/kaggle-titanic
+	url = https://github.com/anton-rusanov/kaggle-titanic.git
+[submodule "code/peterjb1/titanic-kaggle"]
+	path = code/peterjb1/titanic-kaggle
+	url = https://github.com/peterjb1/titanic-kaggle.git
+[submodule "code/coder-chenzhi/Kaggle_Titanic"]
+	path = code/coder-chenzhi/Kaggle_Titanic
+	url = https://github.com/coder-chenzhi/Kaggle_Titanic.git
+[submodule "code/wojtekwalczak/kaggle_titanic"]
+	path = code/wojtekwalczak/kaggle_titanic
+	url = https://github.com/wojtekwalczak/kaggle_titanic.git
+[submodule "code/tomekzbrozek/Titanic_Survivors"]
+	path = code/tomekzbrozek/Titanic_Survivors
+	url = https://github.com/tomekzbrozek/Titanic_Survivors.git
+[submodule "code/davidchoi/titanicsurv"]
+	path = code/davidchoi/titanicsurv
+	url = https://github.com/davidchoi/titanicsurv.git
+[submodule "code/malaikannan/Kaggle_TitanicPredictionChallenge"]
+	path = code/malaikannan/Kaggle_TitanicPredictionChallenge
+	url = https://github.com/malaikannan/Kaggle_TitanicPredictionChallenge.git
+[submodule "code/giffen-n/titanic-test"]
+	path = code/giffen-n/titanic-test
+	url = https://github.com/giffen-n/titanic-test.git
+[submodule "code/andrew-dick/BrisTitanic"]
+	path = code/andrew-dick/BrisTitanic
+	url = https://github.com/andrew-dick/BrisTitanic.git
+[submodule "code/ojwhite/titanic-disaster"]
+	path = code/ojwhite/titanic-disaster
+	url = https://github.com/ojwhite/titanic-disaster.git
+[submodule "code/chie4live/Kaggle-Titinic"]
+	path = code/chie4live/Kaggle-Titinic
+	url = https://github.com/chie4live/Kaggle-Titinic.git
+[submodule "code/dhurley14/TitanicPrediction"]
+	path = code/dhurley14/TitanicPrediction
+	url = https://github.com/dhurley14/TitanicPrediction.git
+[submodule "code/fstakem/TitanicPrediction"]
+	path = code/fstakem/TitanicPrediction
+	url = https://github.com/fstakem/TitanicPrediction.git
+[submodule "code/joshz/kaggle-titanic-tj"]
+	path = code/joshz/kaggle-titanic-tj
+	url = https://github.com/joshz/kaggle-titanic-tj.git
+[submodule "code/sanyala/Kaggle_Titanic_We"]
+	path = code/sanyala/Kaggle_Titanic_We
+	url = https://github.com/sanyala/Kaggle_Titanic_We.git
+[submodule "code/victoongo/kaggle_Titanic_Machine_Learning"]
+	path = code/victoongo/kaggle_Titanic_Machine_Learning
+	url = https://github.com/victoongo/kaggle_Titanic_Machine_Learning.git
+[submodule "code/harjeet88/kaggle-titanic-example"]
+	path = code/harjeet88/kaggle-titanic-example
+	url = https://github.com/harjeet88/kaggle-titanic-example.git
+[submodule "code/justinungson/Kaggle-Titanic-Competition"]
+	path = code/justinungson/Kaggle-Titanic-Competition
+	url = https://github.com/justinungson/Kaggle-Titanic-Competition.git
+[submodule "code/antoinejavelot/Titanic-SHIFT"]
+	path = code/antoinejavelot/Titanic-SHIFT
+	url = https://github.com/antoinejavelot/Titanic-SHIFT.git
+[submodule "code/sreakdgeek/Titanic-Submission"]
+	path = code/sreakdgeek/Titanic-Submission
+	url = https://github.com/sreakdgeek/Titanic-Submission.git
+[submodule "code/anyakar/TitanicKaggleCompetition"]
+	path = code/anyakar/TitanicKaggleCompetition
+	url = https://github.com/anyakar/TitanicKaggleCompetition.git
+[submodule "code/ShawnOakley/TitanicKaggleCompetiton"]
+	path = code/ShawnOakley/TitanicKaggleCompetiton
+	url = https://github.com/ShawnOakley/TitanicKaggleCompetiton.git
+[submodule "code/amardeepm9/Amar_R_project"]
+	path = code/amardeepm9/Amar_R_project
+	url = https://github.com/amardeepm9/Amar_R_project.git
+[submodule "code/ayushedu/ML-TitanicSurvivalPrediction"]
+	path = code/ayushedu/ML-TitanicSurvivalPrediction
+	url = https://github.com/ayushedu/ML-TitanicSurvivalPrediction.git
+[submodule "code/shubhamkalra27/Machine-Learning-from-Disaster"]
+	path = code/shubhamkalra27/Machine-Learning-from-Disaster
+	url = https://github.com/shubhamkalra27/Machine-Learning-from-Disaster.git
+[submodule "code/msuozzo/data_ventures_titanic"]
+	path = code/msuozzo/data_ventures_titanic
+	url = https://github.com/msuozzo/data_ventures_titanic.git
+[submodule "code/rauanmaemirov/kaggle-titanic101"]
+	path = code/rauanmaemirov/kaggle-titanic101
+	url = https://github.com/rauanmaemirov/kaggle-titanic101.git
+[submodule "code/aerokappa/KaggleTitanicML"]
+	path = code/aerokappa/KaggleTitanicML
+	url = https://github.com/aerokappa/KaggleTitanicML.git
+[submodule "code/greghall12/KaggleTitanicPython"]
+	path = code/greghall12/KaggleTitanicPython
+	url = https://github.com/greghall12/KaggleTitanicPython.git
+[submodule "code/manishkurse/KaggleTitanicSurvival"]
+	path = code/manishkurse/KaggleTitanicSurvival
+	url = https://github.com/manishkurse/KaggleTitanicSurvival.git
+[submodule "code/rjshanahan/INFS5098_KaggleTitanic"]
+	path = code/rjshanahan/INFS5098_KaggleTitanic
+	url = https://github.com/rjshanahan/INFS5098_KaggleTitanic.git
+[submodule "code/ariljain/kaggleTitanicProject"]
+	path = code/ariljain/kaggleTitanicProject
+	url = https://github.com/ariljain/kaggleTitanicProject.git
+[submodule "code/sviridenich/TitanicPy"]
+	path = code/sviridenich/TitanicPy
+	url = https://github.com/sviridenich/TitanicPy.git
+[submodule "code/samicastro/KaggleTitanicTutorial"]
+	path = code/samicastro/KaggleTitanicTutorial
+	url = https://github.com/samicastro/KaggleTitanicTutorial.git
+[submodule "code/alexandrecaze/python-titanic"]
+	path = code/alexandrecaze/python-titanic
+	url = https://github.com/alexandrecaze/python-titanic.git
+[submodule "code/kvn219/Titanic-Machine-Learning-from-Disaster"]
+	path = code/kvn219/Titanic-Machine-Learning-from-Disaster
+	url = https://github.com/kvn219/Titanic-Machine-Learning-from-Disaster.git
+[submodule "code/biarchitect/kTitanic"]
+	path = code/biarchitect/kTitanic
+	url = https://github.com/biarchitect/kTitanic.git
+[submodule "code/chrisdaly/Titanic-Analysis"]
+	path = code/chrisdaly/Titanic-Analysis
+	url = https://github.com/chrisdaly/Titanic-Analysis.git
+[submodule "code/WijnandNuij/ML_Titanic"]
+	path = code/WijnandNuij/ML_Titanic
+	url = https://github.com/WijnandNuij/ML_Titanic.git
+[submodule "code/taise/R_titanic"]
+	path = code/taise/R_titanic
+	url = https://github.com/taise/R_titanic.git
+[submodule "code/4fur4/Titanic-prediction"]
+	path = code/4fur4/Titanic-prediction
+	url = https://github.com/4fur4/Titanic-prediction.git
+[submodule "code/dclux/dsc-kaggle-titanic"]
+	path = code/dclux/dsc-kaggle-titanic
+	url = https://github.com/dclux/dsc-kaggle-titanic.git
+[submodule "code/josiahdavis/titanic_kaggle_comp"]
+	path = code/josiahdavis/titanic_kaggle_comp
+	url = https://github.com/josiahdavis/titanic_kaggle_comp.git
+[submodule "code/anandg112/Titanic-Kaggle-Challenge"]
+	path = code/anandg112/Titanic-Kaggle-Challenge
+	url = https://github.com/anandg112/Titanic-Kaggle-Challenge.git
+[submodule "code/camejia/kaggle-titanic-gettingStarted"]
+	path = code/camejia/kaggle-titanic-gettingStarted
+	url = https://github.com/camejia/kaggle-titanic-gettingStarted.git
+[submodule "code/fluxw42/kaggle-titanic-ml"]
+	path = code/fluxw42/kaggle-titanic-ml
+	url = https://github.com/fluxw42/kaggle-titanic-ml.git
+[submodule "code/anyuanay/proj_kaggle_titanic"]
+	path = code/anyuanay/proj_kaggle_titanic
+	url = https://github.com/anyuanay/proj_kaggle_titanic.git
+[submodule "code/RahulHP/Kaggle-Titanic-R"]
+	path = code/RahulHP/Kaggle-Titanic-R
+	url = https://github.com/RahulHP/Kaggle-Titanic-R.git
+[submodule "code/swem/kaggle-titanic-gettingStarted"]
+	path = code/swem/kaggle-titanic-gettingStarted
+	url = https://github.com/swem/kaggle-titanic-gettingStarted.git
+[submodule "code/DJCordhose/kaggle-titanic-competition"]
+	path = code/DJCordhose/kaggle-titanic-competition
+	url = https://github.com/DJCordhose/kaggle-titanic-competition.git
+[submodule "code/rcamino/kaggle-titanic-gettingStarted"]
+	path = code/rcamino/kaggle-titanic-gettingStarted
+	url = https://github.com/rcamino/kaggle-titanic-gettingStarted.git
+[submodule "code/trh178/r-kaggle-titanic"]
+	path = code/trh178/r-kaggle-titanic
+	url = https://github.com/trh178/r-kaggle-titanic.git
+[submodule "code/rilut/kaggle-titanic-python3"]
+	path = code/rilut/kaggle-titanic-python3
+	url = https://github.com/rilut/kaggle-titanic-python3.git
+[submodule "code/davidaraujo/Kaggle_Titanic_Python"]
+	path = code/davidaraujo/Kaggle_Titanic_Python
+	url = https://github.com/davidaraujo/Kaggle_Titanic_Python.git
+[submodule "code/muhammadzaheer/Kaggle_Titanic_Octave"]
+	path = code/muhammadzaheer/Kaggle_Titanic_Octave
+	url = https://github.com/muhammadzaheer/Kaggle_Titanic_Octave.git
+[submodule "code/DanielGrewal/Kaggle-Titanic-Dataset"]
+	path = code/DanielGrewal/Kaggle-Titanic-Dataset
+	url = https://github.com/DanielGrewal/Kaggle-Titanic-Dataset.git
+[submodule "code/rtm907/Kaggle-Titanic-Repository"]
+	path = code/rtm907/Kaggle-Titanic-Repository
+	url = https://github.com/rtm907/Kaggle-Titanic-Repository.git
+[submodule "code/0420DAVE/Titanic_Kaggle-Competition"]
+	path = code/0420DAVE/Titanic_Kaggle-Competition
+	url = https://github.com/0420DAVE/Titanic_Kaggle-Competition.git
+[submodule "code/nicolas-legroux/Kaggle-Titanic-Competition"]
+	path = code/nicolas-legroux/Kaggle-Titanic-Competition
+	url = https://github.com/nicolas-legroux/Kaggle-Titanic-Competition.git
+[submodule "code/shirleyyoung0812/Titanic-project-on-Kaggle"]
+	path = code/shirleyyoung0812/Titanic-project-on-Kaggle
+	url = https://github.com/shirleyyoung0812/Titanic-project-on-Kaggle.git
+[submodule "code/DohaBasem/Kaggle_Titanic-Survivors"]
+	path = code/DohaBasem/Kaggle_Titanic-Survivors
+	url = https://github.com/DohaBasem/Kaggle_Titanic-Survivors.git
+[submodule "code/ddboline/kaggle_titantic_tutorial"]
+	path = code/ddboline/kaggle_titantic_tutorial
+	url = https://github.com/ddboline/kaggle_titantic_tutorial.git
+[submodule "code/jimcen33/Titanic-Competition-Kaggle"]
+	path = code/jimcen33/Titanic-Competition-Kaggle
+	url = https://github.com/jimcen33/Titanic-Competition-Kaggle.git
+[submodule "code/Bruschkov/kaggle_titanic_r"]
+	path = code/Bruschkov/kaggle_titanic_r
+	url = https://github.com/Bruschkov/kaggle_titanic_r.git
+[submodule "code/deatixmp/Titanic-Kaggle-Challenge"]
+	path = code/deatixmp/Titanic-Kaggle-Challenge
+	url = https://github.com/deatixmp/Titanic-Kaggle-Challenge.git
+[submodule "code/mannybernabe/Kaggle-Titanic-Tutorial"]
+	path = code/mannybernabe/Kaggle-Titanic-Tutorial
+	url = https://github.com/mannybernabe/Kaggle-Titanic-Tutorial.git
+[submodule "code/guillaumedreyer/Kaggle-challenge-Titanic"]
+	path = code/guillaumedreyer/Kaggle-challenge-Titanic
+	url = https://github.com/guillaumedreyer/Kaggle-challenge-Titanic.git
+[submodule "code/srimugunthan/kaggle-titanic-python-solution"]
+	path = code/srimugunthan/kaggle-titanic-python-solution
+	url = https://github.com/srimugunthan/kaggle-titanic-python-solution.git
+[submodule "code/bgenchel/Kaggle_RMS_Titanic"]
+	path = code/bgenchel/Kaggle_RMS_Titanic
+	url = https://github.com/bgenchel/Kaggle_RMS_Titanic.git
+[submodule "code/sandermak/kaggle-titanic-demo"]
+	path = code/sandermak/kaggle-titanic-demo
+	url = https://github.com/sandermak/kaggle-titanic-demo.git
+[submodule "code/rogeralmeida/kaggle-titanic-python"]
+	path = code/rogeralmeida/kaggle-titanic-python
+	url = https://github.com/rogeralmeida/kaggle-titanic-python.git
+[submodule "code/kartesus/kaggle-titanic-ruby"]
+	path = code/kartesus/kaggle-titanic-ruby
+	url = https://github.com/kartesus/kaggle-titanic-ruby.git
+[submodule "code/arundhaj/kaggle_titanic_tutorial"]
+	path = code/arundhaj/kaggle_titanic_tutorial
+	url = https://github.com/arundhaj/kaggle_titanic_tutorial.git
+[submodule "code/davidaraujo/Kaggle_Titanic_R"]
+	path = code/davidaraujo/Kaggle_Titanic_R
+	url = https://github.com/davidaraujo/Kaggle_Titanic_R.git
+[submodule "code/codebender/kaggle-titanic-r"]
+	path = code/codebender/kaggle-titanic-r
+	url = https://github.com/codebender/kaggle-titanic-r.git
+[submodule "code/PamixSun/Kaggle_Titanic_learning_R"]
+	path = code/PamixSun/Kaggle_Titanic_learning_R
+	url = https://github.com/PamixSun/Kaggle_Titanic_learning_R.git
+[submodule "code/ebratt/kaggle-titanic-gettingStarted"]
+	path = code/ebratt/kaggle-titanic-gettingStarted
+	url = https://github.com/ebratt/kaggle-titanic-gettingStarted.git
+[submodule "code/fabio-mat-br/kaggle-titanic-gettingStarted"]
+	path = code/fabio-mat-br/kaggle-titanic-gettingStarted
+	url = https://github.com/fabio-mat-br/kaggle-titanic-gettingStarted.git
+[submodule "code/iainharlow/Titanic-Kaggle-Tutorial"]
+	path = code/iainharlow/Titanic-Kaggle-Tutorial
+	url = https://github.com/iainharlow/Titanic-Kaggle-Tutorial.git
+[submodule "code/ariesunique/kaggle-titanic-octave"]
+	path = code/ariesunique/kaggle-titanic-octave
+	url = https://github.com/ariesunique/kaggle-titanic-octave.git
+[submodule "code/otfrom/ldnclj-titanic"]
+	path = code/otfrom/ldnclj-titanic
+	url = https://github.com/otfrom/ldnclj-titanic.git
+[submodule "code/deathbob/knn-titanic"]
+	path = code/deathbob/knn-titanic
+	url = https://github.com/deathbob/knn-titanic.git
+[submodule "code/antwort7/titanic-challenge"]
+	path = code/antwort7/titanic-challenge
+	url = https://github.com/antwort7/titanic-challenge.git
+[submodule "code/mauriciorey/titanic_python"]
+	path = code/mauriciorey/titanic_python
+	url = https://github.com/mauriciorey/titanic_python.git
+[submodule "code/ehsanmok/Sparkling-Titanic"]
+	path = code/ehsanmok/Sparkling-Titanic
+	url = https://github.com/ehsanmok/Sparkling-Titanic.git
+[submodule "code/adarshchavakula/TITANIC-NN"]
+	path = code/adarshchavakula/TITANIC-NN
+	url = https://github.com/adarshchavakula/TITANIC-NN.git
+[submodule "code/sfaggle/rms-titanic"]
+	path = code/sfaggle/rms-titanic
+	url = https://github.com/sfaggle/rms-titanic.git
+[submodule "code/mefuru/titanicInR"]
+	path = code/mefuru/titanicInR
+	url = https://github.com/mefuru/titanicInR.git
+[submodule "code/aruizga7/TitanicShinyApplication"]
+	path = code/aruizga7/TitanicShinyApplication
+	url = https://github.com/aruizga7/TitanicShinyApplication.git
+[submodule "code/MattDamone/Titanic--Machine-Learning"]
+	path = code/MattDamone/Titanic--Machine-Learning
+	url = https://github.com/MattDamone/Titanic--Machine-Learning.git
+[submodule "code/Atreya22/KG_TitanicMachineLearning_v2"]
+	path = code/Atreya22/KG_TitanicMachineLearning_v2
+	url = https://github.com/Atreya22/KG_TitanicMachineLearning_v2.git
+[submodule "code/mdupui01/Titanic-Project-R"]
+	path = code/mdupui01/Titanic-Project-R
+	url = https://github.com/mdupui01/Titanic-Project-R.git
+[submodule "code/jhibberd/perceptron-titanic"]
+	path = code/jhibberd/perceptron-titanic
+	url = https://github.com/jhibberd/perceptron-titanic.git
+[submodule "code/domspad/titanic_challenge"]
+	path = code/domspad/titanic_challenge
+	url = https://github.com/domspad/titanic_challenge.git
+[submodule "code/hanzhang/Titanic-Machine-Learning-from-Disaster"]
+	path = code/hanzhang/Titanic-Machine-Learning-from-Disaster
+	url = https://github.com/hanzhang/Titanic-Machine-Learning-from-Disaster.git
+[submodule "code/techsuppdiva/pred_titanic"]
+	path = code/techsuppdiva/pred_titanic
+	url = https://github.com/techsuppdiva/pred_titanic.git
+[submodule "code/crabl/titanic-survival"]
+	path = code/crabl/titanic-survival
+	url = https://github.com/crabl/titanic-survival.git
+[submodule "code/saeedreza/KaggleCompetition1"]
+	path = code/saeedreza/KaggleCompetition1
+	url = https://github.com/saeedreza/KaggleCompetition1.git
+[submodule "code/tchoedak/TitanicSurvivalML"]
+	path = code/tchoedak/TitanicSurvivalML
+	url = https://github.com/tchoedak/TitanicSurvivalML.git
+[submodule "code/sangramkapre/titanic_ml_from_disaster"]
+	path = code/sangramkapre/titanic_ml_from_disaster
+	url = https://github.com/sangramkapre/titanic_ml_from_disaster.git
+[submodule "code/akshaybijawe/Titanic-Data-Analysis-Project"]
+	path = code/akshaybijawe/Titanic-Data-Analysis-Project
+	url = https://github.com/akshaybijawe/Titanic-Data-Analysis-Project.git
+[submodule "code/isaac-yauri/Practice-With-Titanic"]
+	path = code/isaac-yauri/Practice-With-Titanic
+	url = https://github.com/isaac-yauri/Practice-With-Titanic.git
+[submodule "code/YunshuLiu/Kaggle_Titanic_WekaInJava"]
+	path = code/YunshuLiu/Kaggle_Titanic_WekaInJava
+	url = https://github.com/YunshuLiu/Kaggle_Titanic_WekaInJava.git
+[submodule "code/prateeknepaliya09/Titanic-survival-prediction"]
+	path = code/prateeknepaliya09/Titanic-survival-prediction
+	url = https://github.com/prateeknepaliya09/Titanic-survival-prediction.git
+[submodule "code/jwvincent/titanic_survivor_predictions"]
+	path = code/jwvincent/titanic_survivor_predictions
+	url = https://github.com/jwvincent/titanic_survivor_predictions.git
+[submodule "code/elizabethgillbrand/Kaggle-Contest-Predicting-Titanic-Survivors"]
+	path = code/elizabethgillbrand/Kaggle-Contest-Predicting-Titanic-Survivors
+	url = https://github.com/elizabethgillbrand/Kaggle-Contest-Predicting-Titanic-Survivors.git
+[submodule "code/llfelicilda/Kaggle_Competitions"]
+	path = code/llfelicilda/Kaggle_Competitions
+	url = https://github.com/llfelicilda/Kaggle_Competitions.git
+[submodule "code/daverb/Titanic_Analysis"]
+	path = code/daverb/Titanic_Analysis
+	url = https://github.com/daverb/Titanic_Analysis.git
+[submodule "code/diogoaurelio/titanicShinyApp"]
+	path = code/diogoaurelio/titanicShinyApp
+	url = https://github.com/diogoaurelio/titanicShinyApp.git
+[submodule "code/ibillett/titantic-kaggle"]
+	path = code/ibillett/titantic-kaggle
+	url = https://github.com/ibillett/titantic-kaggle.git
+[submodule "code/cbushell/titanic-d3"]
+	path = code/cbushell/titanic-d3
+	url = https://github.com/cbushell/titanic-d3.git
+[submodule "code/benhenschke/titanic-survival-predictor"]
+	path = code/benhenschke/titanic-survival-predictor
+	url = https://github.com/benhenschke/titanic-survival-predictor.git
+[submodule "code/johnson04/Titanic-Machine-Learning-from-Disaster"]
+	path = code/johnson04/Titanic-Machine-Learning-from-Disaster
+	url = https://github.com/johnson04/Titanic-Machine-Learning-from-Disaster.git
+[submodule "code/mrcanard/MachineLearningSandbox"]
+	path = code/mrcanard/MachineLearningSandbox
+	url = https://github.com/mrcanard/MachineLearningSandbox.git
+[submodule "code/benporter/titantic-dataset"]
+	path = code/benporter/titantic-dataset
+	url = https://github.com/benporter/titantic-dataset.git
+[submodule "code/jimmytan/titianic"]
+	path = code/jimmytan/titianic
+	url = https://github.com/jimmytan/titianic.git
+[submodule "code/brianliou/StatsGuys"]
+	path = code/brianliou/StatsGuys
+	url = https://github.com/brianliou/StatsGuys.git
+[submodule "code/Sakibs/titanic_machine_learning"]
+	path = code/Sakibs/titanic_machine_learning
+	url = https://github.com/Sakibs/titanic_machine_learning.git
+[submodule "code/aanchan/Titanic-MTLDATA-Theano"]
+	path = code/aanchan/Titanic-MTLDATA-Theano
+	url = https://github.com/aanchan/Titanic-MTLDATA-Theano.git
+[submodule "code/jrgilbertson/titanic-predicting-disaster"]
+	path = code/jrgilbertson/titanic-predicting-disaster
+	url = https://github.com/jrgilbertson/titanic-predicting-disaster.git
+[submodule "code/pdelboca/titanic-machine-learning-for-disaster"]
+	path = code/pdelboca/titanic-machine-learning-for-disaster
+	url = https://github.com/pdelboca/titanic-machine-learning-for-disaster.git
+[submodule "code/adamw523/coursera_intro_data_sci_titanic"]
+	path = code/adamw523/coursera_intro_data_sci_titanic
+	url = https://github.com/adamw523/coursera_intro_data_sci_titanic.git
+[submodule "code/KellyChan/kaggle-titanic-machine-learning-from-disaster"]
+	path = code/KellyChan/kaggle-titanic-machine-learning-from-disaster
+	url = https://github.com/KellyChan/kaggle-titanic-machine-learning-from-disaster.git
+[submodule "code/ceekr/Ex-Machina-Titanic"]
+	path = code/ceekr/Ex-Machina-Titanic
+	url = https://github.com/ceekr/Ex-Machina-Titanic.git
+[submodule "code/solderguy/cloud-mincemeat-titanic-analysis"]
+	path = code/solderguy/cloud-mincemeat-titanic-analysis
+	url = https://github.com/solderguy/cloud-mincemeat-titanic-analysis.git
+[submodule "code/SecuraPaWn/Kaggle-Entry----Titanic--Machine-Learning-from-Disaster"]
+	path = code/SecuraPaWn/Kaggle-Entry----Titanic--Machine-Learning-from-Disaster
+	url = https://github.com/SecuraPaWn/Kaggle-Entry----Titanic--Machine-Learning-from-Disaster.git
+[submodule "code/yildirimarda/Kaggle-Competition-Titanic-Machine-Learning-from-Disaster"]
+	path = code/yildirimarda/Kaggle-Competition-Titanic-Machine-Learning-from-Disaster
+	url = https://github.com/yildirimarda/Kaggle-Competition-Titanic-Machine-Learning-from-Disaster.git
+[submodule "code/matthewdeuschle/Titanic-Shiny-Application"]
+	path = code/matthewdeuschle/Titanic-Shiny-Application
+	url = https://github.com/matthewdeuschle/Titanic-Shiny-Application.git
+[submodule "code/ageitgey/titanic_machine_learning_example"]
+	path = code/ageitgey/titanic_machine_learning_example
+	url = https://github.com/ageitgey/titanic_machine_learning_example.git
+[submodule "code/rmr949/titanic-survival-prediction"]
+	path = code/rmr949/titanic-survival-prediction
+	url = https://github.com/rmr949/titanic-survival-prediction.git
+[submodule "code/billzichos/Titanic-Machine-Learning-From-Disaster"]
+	path = code/billzichos/Titanic-Machine-Learning-From-Disaster
+	url = https://github.com/billzichos/Titanic-Machine-Learning-From-Disaster.git
+[submodule "code/viswanth/KaggleShipWreck"]
+	path = code/viswanth/KaggleShipWreck
+	url = https://github.com/viswanth/KaggleShipWreck.git
+[submodule "code/PGrothaus/random_forest"]
+	path = code/PGrothaus/random_forest
+	url = https://github.com/PGrothaus/random_forest.git
+[submodule "code/samrudhisharma/R-Tutorial-Solutions-for-the-Titanic-Kaggle-exercise"]
+	path = code/samrudhisharma/R-Tutorial-Solutions-for-the-Titanic-Kaggle-exercise
+	url = https://github.com/samrudhisharma/R-Tutorial-Solutions-for-the-Titanic-Kaggle-exercise.git
+[submodule "code/andlinville/shipwreck"]
+	path = code/andlinville/shipwreck
+	url = https://github.com/andlinville/shipwreck.git
+[submodule "code/Prosserc/Blackbox-Classification"]
+	path = code/Prosserc/Blackbox-Classification
+	url = https://github.com/Prosserc/Blackbox-Classification.git
+[submodule "code/WRIDERS/SurvivalPredictor"]
+	path = code/WRIDERS/SurvivalPredictor
+	url = https://github.com/WRIDERS/SurvivalPredictor.git
